@@ -1,6 +1,6 @@
 # mercure
 
-[Mercure](https://github.com/dunglas/mercure) Node.js implementation of the mercure protocol
+Node.js implementation of the [Mercure](https://github.com/dunglas/mercure) protocol
 
 ## Resources
 
