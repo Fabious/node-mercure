@@ -1,8 +1,6 @@
-## Playground
+# mercure
 
-- launch the server `npm run serve`
-- launch the react app `cd examples/sse-client` -> `npm start`
-- POST the server
+[Mercure](https://github.com/dunglas/mercure) Node.js implementation of the mercure protocol
 
 ## Resources
 
